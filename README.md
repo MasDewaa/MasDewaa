@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @MasDewaa
-- 👀 I’m interested in **Machine Learning, Internet of Things (IoT), and Web Development.**
-- 🌱 I’m currently learning how to integrate AI into IoT systems to build smarter and more efficient solutions.
-- 💞️ I’m looking to collaborate on projects that involve **IoT-based systems**, **AI-driven applications**, or **web-based platforms**.
-- 📫 How to reach me: **[My Email](mailto:ramasyailana420@gmail.com)** or connect with me on **[My LinkedIn](https://www.linkedin.com/in/ramasyailana/)**.
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: I love experimenting with different tech stacks and am always on the lookout for the next big challenge!
+👋 Hi there! I'm @MasDewaa
+Passionate about:
 
-<!---
-MasDewaa/MasDewaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌐 Machine Learning,
+🌐 Internet of Things (IoT), and
+🌐 Web Development.
+🚀 About Me
+🔭 Currently exploring the exciting intersection of AI and IoT to create smarter, more efficient systems.
+🌱 Learning and growing in AI and its integration with IoT platforms for innovative solutions.
+💼 Always on the lookout for collaboration opportunities in IoT-based systems, AI-driven applications, or web-based platforms.
+💻 Tech Stack & Skills
+Languages: Python, JavaScript, HTML/CSS
+Tools & Frameworks: TensorFlow, Flask, Node.js, React
+Platforms: Arduino, Raspberry Pi, AWS, Google Cloud
+Version Control: Git, GitHub
+📫 How to reach me
+Email: ramasyailana420@gmail.com
+LinkedIn: Rama Syailana
+😄 Pronouns: He/Him
+⚡ Fun fact: I enjoy exploring new tech stacks and tackling challenging projects!
