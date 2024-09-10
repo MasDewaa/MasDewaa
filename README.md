@@ -30,7 +30,7 @@
 </p>
 
 ### 📫 How to reach me
-- **Email**: [ramasyailana420@gmail.com](mailto:ramasyailana420@gmail.com)  
+- **Email**: [ramasyailana420@gmail.com](mailto:ramasyailana3@gmail.com)  
 - **LinkedIn**: [Rama Syailana](https://www.linkedin.com/in/ramasyailana/)
 
 ### 😄 Pronouns: **He/Him**  
