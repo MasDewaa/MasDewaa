@@ -17,7 +17,9 @@
   <a href="https://www.tensorflow.org/"><img align="left" alt="TensorFlow" title="TensorFlow" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" /></a>
   <a href="https://flask.palletsprojects.com/"><img align="left" alt="Flask" title="Flask" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" /></a>
   <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
-  <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
+  <a href="https://csharp-station.com"><img align="left" alt="C#" title="C#" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg](https://en.wikipedia.org/wiki/File:C_Sharp_Logo_2023.svg" /></a>
+  <a href="https://cplusplus.com/"><img align="left" alt="C++" title="C++" width="21px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FC%252B%252B&psig=AOvVaw1lDoAk5z-TLKip15qoTMXa&ust=1728444703611000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjH4rbs_YgDFQAAAAAdAAAAABAE" /></a>
+  
   <br>
   <br>
 
