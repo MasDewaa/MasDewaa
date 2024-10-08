@@ -33,5 +33,5 @@
 - **Email**: [ramasyailana3@gmail.com](mailto:ramasyailana3@gmail.com)  
 - **LinkedIn**: [Rama Syailana](https://www.linkedin.com/in/ramasyailana/)
 
-### 😄 Pronouns: **He/Him**  
+### 😄 Pronouns: He 
 ### ⚡ Fun fact: I enjoy exploring new tech stacks and tackling challenging projects!
