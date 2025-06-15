@@ -74,15 +74,15 @@
 
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Synthever&theme=dark)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=MasDewaa&theme=dark)](https://git.io/streak-stats)
   
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=synthever&layout=compact&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api?username=synthever&layout=compact&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasDewaa&layout=compact&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MasDewaa&layout=compact&theme=dracula" />
 </div>
 
 
